@@ -17,7 +17,7 @@
     "@mui/styles": "^5.0.0",
     "@reduxjs/toolkit": "^1.6.0",
     "axios": "^0.21.1",
-    "sharp-libvips": "^8.12.1",
+    "libvips": "^8.12.1",
     "mqtt": "^4.2.8",
     "next": "^10.0.0",
     "react": "17.0.2",
