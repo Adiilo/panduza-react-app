@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@babel/core" : "^7.0.0",
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
     "@mui/icons-material": "^5.0.0",
@@ -24,6 +25,7 @@
     "react-redux": "^7.2.4",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.3.0",
+    "stylis" : "^3.5.0",
     "underscore": "^1.13.1",
     "use-client-router": "^1.0.4"
   },
